@@ -1,0 +1,18 @@
+site_name: Git Commands Documentation
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: cyan
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.highlight
+
+nav:
+  - Git Commands: git-commands.md
