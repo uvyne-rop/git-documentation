@@ -15,4 +15,4 @@ theme:
     - search.highlight
 
 nav:
-  - Git Commands: git-commands.md
+  - Git Commands: index.md
